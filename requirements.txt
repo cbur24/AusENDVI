@@ -16,6 +16,8 @@ rioxarray
 pandas
 geopandas
 odc-geo
+earthengine-api
+geemap
 
 # ML
 lightgbm
@@ -25,3 +27,9 @@ shap
 # plotting
 contextily
 seaborn
+folium
+
+# analysis
+xarrayMannKendall
+jenkspy
+scipy
