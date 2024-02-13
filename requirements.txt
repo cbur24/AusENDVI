@@ -1,0 +1,27 @@
+# Jupyter
+jupyterlab==4.0.9
+jupyter-resource-usage
+jupyter-server
+dask-labextension
+ipywidgets
+
+# dask
+dask[complete]
+dask-ml
+graphviz
+
+# geospatial
+xarray[complete]
+rioxarray
+pandas
+geopandas
+odc-geo
+
+# ML
+lightgbm
+lightgbm[scikit-learn]
+shap
+
+# plotting
+contextily
+seaborn
