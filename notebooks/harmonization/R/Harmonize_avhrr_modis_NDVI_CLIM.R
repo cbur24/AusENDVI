@@ -20,7 +20,7 @@ library(metrica); library(scico); library(mgcViz); library(foreach); library(doP
 ##########################################################################
 
 n_cores <- 12
-base_path <- "/g/data/os22/chad_tmp/climate-carbon-interactions/data/NDVI_harmonization/GAM/"
+base_path <- "/g/data/os22/chad_tmp/AusENDVI/data/NDVI_harmonization/GAM/"
 regions = list('trees', 'nontrees')
 
 #loop through the regions and create models/predictions

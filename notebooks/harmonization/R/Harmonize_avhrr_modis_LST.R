@@ -4,8 +4,8 @@ setDTthreads(threads=0)
 library(mgcv)
 library(RcppArmadillo)
 
-avhrr_path = '/g/data/os22/chad_tmp/climate-carbon-interactions/data/LST_harmonization/AVHRR_LST_5km_monthly_1982_2013.nc'
-modis_path = '/g/data/os22/chad_tmp/climate-carbon-interactions/data/LST_harmonization/MODIS_LST_5km_monthly_2001_2022.nc'
+avhrr_path = '/g/data/os22/chad_tmp/AusENDVI/data/LST_harmonization/AVHRR_LST_5km_monthly_1982_2013.nc'
+modis_path = '/g/data/os22/chad_tmp/AusENDVI/data/LST_harmonization/MODIS_LST_5km_monthly_2001_2022.nc'
 
 ## Read AVHRR data
 tmp_median = stars::read_ncdf(avhrr_path, var='LST_median', make_time = T, proxy=F)
@@ -156,7 +156,7 @@ tmp <- st_as_stars(d_export, dims = c("x","y","time"))
 
 ## requires stars 0.6-1 or greater
 stars::write_mdim(tmp, 
-           '/g/data/os22/chad_tmp/climate-carbon-interactions/data/Harmonized_LST_AVHRR_MODIS_1982_2013.nc', 
+           '/g/data/os22/chad_tmp/AusENDVI/data/Harmonized_LST_AVHRR_MODIS_1982_2013.nc', 
            layer = c("LST_mcd", "LST_cdr", "LST_mcd_pred", "month", "year"
            )) 
 
