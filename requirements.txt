@@ -18,6 +18,7 @@ geopandas
 odc-geo
 earthengine-api
 geemap
+datacube
 
 # ML
 lightgbm
@@ -33,3 +34,4 @@ folium
 xarrayMannKendall
 jenkspy
 scipy
+scikit-image
