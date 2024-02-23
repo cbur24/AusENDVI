@@ -9,6 +9,7 @@ ipywidgets
 dask[complete]
 dask-ml
 graphviz
+flox
 
 # geospatial
 xarray[complete]
@@ -29,9 +30,11 @@ shap
 contextily
 seaborn
 folium
+odc-ui
 
 # analysis
 xarrayMannKendall
 jenkspy
 scipy
 scikit-image
+xskillscore
