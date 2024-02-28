@@ -1,7 +1,7 @@
 
 <img align="centre" src="results/banner_picture.png" width="100%">
 
-# AusENDVI: A NDVI dataset built specifically for Australia
+# AusENDVI: A NDVI dataset built solely for Australia
 
 Details forthcoming.
 
