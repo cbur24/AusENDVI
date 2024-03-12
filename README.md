@@ -7,6 +7,8 @@ AusENDVI (**Aus**tralian **E**mprical **NDVI**) is a monthly, 5-km gridded estim
 
 <!-- The methods are extensively described in the Earth System Science Data (pre)-publication here. -->
 
-<!-- The datasets are available for download through zenodo: https://zenodo.org/uploads/10802704 -->
+The datasets are available for download through zenodo
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10802704.svg)](https://doi.org/10.5281/zenodo.10802704)
 
 **License:** The code in this repository is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
