@@ -7,7 +7,7 @@ AusENDVI (**Aus**tralian **E**mprical **NDVI**) is a monthly, 5-km gridded estim
 
 The methods are extensively described in the [Earth System Science Data pre-publication](https://doi.org/10.5194/essd-2024-89)
 
-    Burton, C. A., Rifai, S. W., Renzullo, L. J., and Van Dijk, A. I. J. M.: Enhancing Long-Term Vegetation Monitoring in Australia: A New Approach for Harmonising and Gap-Filling AVHRR and MODIS NDVI, Earth Syst. Sci. Data Discuss., 2024, 1-35, 10.5194/essd-2024-89, 2024.
+> Burton, C. A., Rifai, S. W., Renzullo, L. J., and Van Dijk, A. I. J. M.: Enhancing Long-Term Vegetation Monitoring in Australia: A New Approach for Harmonising and Gap-Filling AVHRR and MODIS NDVI, Earth Syst. Sci. Data Discuss., 2024, 1-35, 10.5194/essd-2024-89, 2024.
 
 
 The datasets are available for download through zenodo
