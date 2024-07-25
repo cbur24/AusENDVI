@@ -38,3 +38,4 @@ jenkspy
 scipy
 scikit-image
 xskillscore
+tigramite
