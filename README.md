@@ -12,6 +12,6 @@ The methods are extensively described in an [Earth System Science Data pre-publi
 
 The datasets are available for download through zenodo
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10802704.svg)](https://doi.org/10.5281/zenodo.10802704)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10802703.svg)](https://doi.org/10.5281/zenodo.10802703)
 
 **License:** The code in this repository is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
