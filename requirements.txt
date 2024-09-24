@@ -10,6 +10,7 @@ dask[complete]
 dask-ml
 graphviz
 flox
+dask-jobqueue
 
 # geospatial
 xarray[complete]
