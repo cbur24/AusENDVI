@@ -7,7 +7,7 @@ AusENDVI (**Aus**tralian **E**mpirical **NDVI**) is a monthly, 5-km gridded esti
 
 The methods are extensively described in an [Earth System Science Data publication](https://doi.org/10.5194/essd-16-4389-2024)
 
-> Burton, C. A., Rifai, S. W., Renzullo, L. J., and Van Dijk, A. I. J. M.: Enhancing long-term vegetation monitoring in Australia: a new approach for harmonising the Advanced Very High Resolution Radiometer normalised-difference vegetation (NVDI) with MODIS NDVI, Earth Syst. Sci. Data, 16, 4389-4416, 10.5194/essd-16-4389-2024, 2024.
+> Burton, C. A., Rifai, S. W., Renzullo, L. J., and Van Dijk, A. I. J. M.: Enhancing long-term vegetation monitoring in Australia: a new approach for harmonising the Advanced Very High Resolution Radiometer normalised-difference vegetation index (NDVI) with MODIS NDVI, Earth Syst. Sci. Data, 16, 4389-4416, 10.5194/essd-16-4389-2024, 2024.
 
 The datasets are available for download through zenodo
 
